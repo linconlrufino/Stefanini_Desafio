@@ -1,0 +1,30 @@
+.main {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  text-align: center;
+  background: #dadada;
+  display: block;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.desafio {
+  font-size: 400%;
+  background-color: aliceblue;
+}
+
+.me {
+  margin: 5vh 5vh 25vh 5vh;
+}
+
+.opcoes {
+  padding: 5% 5% 5% 5%;
+  margin: 25% 5% 5% 5%;
+  background-color: #fff;
+  font-size: 250%;
+  border-radius: 20px;
+  text-decoration: double;
+  font-weight: 600;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
